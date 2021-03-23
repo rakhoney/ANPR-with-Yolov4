@@ -18,8 +18,6 @@ while cap.isOpened():
     if not ret:
         break
 
-    # img = cv2.resize(img, dsize=None, fx=0.5, fy=0.5)
-
     H, W, _ = img.shape
 
     blob = cv2.dnn.blobFromImage(img, scalefactor=1/255., size=(416, 416), swapRB=True)
