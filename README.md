@@ -5,6 +5,12 @@
 
 ## Usage
 
+Download the pretrained model from:
+
+https://drive.google.com/file/d/1b3rYgP48z_NGvSuNoMKDvxXzYmray_Qr/view?usp=sharing
+
+and run
+
 ```
 python parking_gate.py
 ```
