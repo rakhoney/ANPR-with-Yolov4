@@ -1,3 +1,26 @@
+# A.I. Parking Barrier Gate
+
+![](imgs/result.gif)
+
+
+## Usage
+
+```
+python parking_gate.py
+```
+
+## Dependency
+
+- Python 3
+- OpenCV 4+ (cv2.dnn module required)
+- DynamiKontrol https://dk.m47rix.com
+
+## Reference
+
+- Thanks to [Junggyun](https://github.com/Dodant) for sharing pretrained models and code.
+
+---
+
 # ANPR-with-Yolo-v4
 **ANPR (Automatic Number-Plate Recognition)** : 차량번호판 자동 인식 프로그램
 
